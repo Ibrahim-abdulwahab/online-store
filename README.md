@@ -1,11 +1,11 @@
 An online store where admin create,update and delete products
 
 to run the app type in the terminal 
-```npm build 
-npm start```
+```npm build ```
+```npm start```
  then using a new terminal
-```cd frontend
- npm run dev```
+```cd frontend```
+```npm run dev```
 
 ![store1](https://github.com/user-attachments/assets/abb51012-8566-43ba-add3-048d142df328)
 ![store2](https://github.com/user-attachments/assets/71d815f0-f867-4ab3-b43c-a506725ef3a6)
